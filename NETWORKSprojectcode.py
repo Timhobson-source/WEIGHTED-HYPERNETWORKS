@@ -224,7 +224,7 @@ for node in list(G2.nodes):
     S2.append(wc.strength(G2,w2,node))
 
 
-# In[47]:
+
 
 
 T=47
